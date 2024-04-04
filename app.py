@@ -1,5 +1,6 @@
 import os
 import secrets
+import requests
 
 from flask import Flask, jsonify
 from flask_smorest import Api
